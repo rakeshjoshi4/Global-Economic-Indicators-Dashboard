@@ -19,7 +19,7 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
 - **Interactive visuals** summarizing **economic indicators** across countries.
 - **Scatter plots** showing correlations between **GDP (constant 2015 USD)** and **global temperature changes** from 1951–2021.
 - **Regional breakdown** of countries by count.
-- 📸 **Screenshot**:  Overview
+- 📸 **Screenshot**:  Overview Dashboard
   ![Overview](https://github.com/rakeshjoshi4/Global-Economic-Indicators-Dashboard/blob/main/Screenshots/Overview_01.png)
 
 #### 🎯 Drillthrough Functionality
