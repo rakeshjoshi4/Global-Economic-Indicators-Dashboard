@@ -15,7 +15,7 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
 - A robust relational data model connecting tables for **countries, years, indicators, measures, and metadata**.
 - Key relationships enable seamless analysis across multiple dimensions such as **GDP growth, population density, and temperature changes**.
 - 📸 **Screenshot**:
-  ![Data Model](Images/Model_View.jpg)
+  ![Data Model](Images/Model_View.png)
 
 ### 🌐 Global Overview Dashboard
 
@@ -23,7 +23,7 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
 - Scatter plots showing correlations between **GDP (constant 2015 USD)** and **global temperature changes** from 1951–2021.
 - Regional breakdown of countries by count.
 - 📸 **Screenshot**:
-  ![Overview Dashboard](Images/Overview.jpg)
+  ![Overview Dashboard](Images/Overview.png)
 
 ### 🎯 Drillthrough Functionality
 
@@ -39,15 +39,15 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
   - 🔢 **GDP Per Capita**
 - 📈 Year-over-year analysis of GDP growth percentages visualized through bar charts and line graphs.
 - 📸 **Screenshots**:
-  - ![India Dashboard](Images/India_Detail.jpg)
-  - ![China Dashboard](Images/China_Detail.jpg)
+  - ![India Dashboard](Images/China_Detail.png)
+  - ![China Dashboard](Images/China_Detail.png)
 
 ### 📚 Metadata Tab
 
 - A dedicated section summarizing the **data sources and methodology** used in the project.
 - Includes specific **API links** to World Bank datasets and climate-related data sources.
 - 📸 **Screenshot**:
-  ![Metadata Tab](Images/Metadata.jpg)
+  ![Metadata Tab](Images/Metadata.png)
 
 ---
 
@@ -110,7 +110,13 @@ Contributions are welcome! If you'd like to **improve this project** or add new 
 
 For questions or feedback regarding this project:
 
-- 📩 [rakeshgjoshi4@gmail.com]
-- 🔗 [https://www.linkedin.com/in/rakesh-joshi-9b8a6024b04z/]
+- 📩 ![Email](rakeshgjoshi4@gmail.com)
+- 🔗 ![Linkedin](https://www.linkedin.com/in/rakesh-joshi-9b8a6024b04z/)
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
