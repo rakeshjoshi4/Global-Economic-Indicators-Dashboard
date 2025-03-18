@@ -106,15 +106,6 @@ Contributions are welcome! If you'd like to **improve this project** or add new 
 
 ---
 
-## 📧 Contact
-
-For questions or feedback regarding this project:
-
-- 📩 [Email](rakeshgjoshi4@gmail.com)
-- 🔗 [Linkedin](https://www.linkedin.com/in/rakesh-joshi-9b8a6024b04z/)
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
