@@ -39,7 +39,7 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
   - 🔢 **GDP Per Capita**
 - 📈 Year-over-year analysis of GDP growth percentages visualized through bar charts and line graphs.
 - 📸 **Screenshots**:
-  - ![India Dashboard](Images/China_Detail.png)
+  - ![India Dashboard](Images/India_Detail.png)
   - ![China Dashboard](Images/China_Detail.png)
 
 ### 📚 Metadata Tab
