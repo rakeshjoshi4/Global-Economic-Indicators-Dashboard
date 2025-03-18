@@ -15,7 +15,7 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
 - A robust relational data model connecting tables for **countries, years, indicators, measures, and metadata**.
 - Key relationships enable seamless analysis across multiple dimensions such as **GDP growth, population density, and temperature changes**.
 - 📸 **Screenshot**:
-  ![Data Model](images/Model_View.jpg)
+  ![Data Model](Images/Model_View.jpg)
 
 ### 🌐 Global Overview Dashboard
 
@@ -23,7 +23,7 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
 - Scatter plots showing correlations between **GDP (constant 2015 USD)** and **global temperature changes** from 1951–2021.
 - Regional breakdown of countries by count.
 - 📸 **Screenshot**:
-  ![Overview Dashboard](images/Overview.jpg)
+  ![Overview Dashboard](Images/Overview.jpg)
 
 ### 🎯 Drillthrough Functionality
 
@@ -39,15 +39,15 @@ This project is ideal for **policymakers, researchers, and data enthusiasts** se
   - 🔢 **GDP Per Capita**
 - 📈 Year-over-year analysis of GDP growth percentages visualized through bar charts and line graphs.
 - 📸 **Screenshots**:
-  - ![India Dashboard](images/India_Detail.jpg)
-  - ![China Dashboard](images/China_Detail.jpg)
+  - ![India Dashboard](Images/India_Detail.jpg)
+  - ![China Dashboard](Images/China_Detail.jpg)
 
 ### 📚 Metadata Tab
 
 - A dedicated section summarizing the **data sources and methodology** used in the project.
 - Includes specific **API links** to World Bank datasets and climate-related data sources.
 - 📸 **Screenshot**:
-  ![Metadata Tab](images/Metadata.jpg)
+  ![Metadata Tab](Images/Metadata.jpg)
 
 ---
 
